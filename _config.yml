@@ -3,16 +3,16 @@ repository: kingspm/sqvd
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: SQVD
+topnav_title: KingsPM
 # this appears on the top navigation bar next to the home button
 
-site_title: SQVD - Scalable Quality and Variation Database
+site_title: King's Precision Medicine
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: King's College Hospital NHS Foundation Trust
 # this appears in the footer
 
-github_editme_path: kingspm/sqvd/blob/gh-pages/
+github_editme_path: kingspm/kingspm.github.io/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname:
