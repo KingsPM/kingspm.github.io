@@ -548,12 +548,12 @@ hr.faded {
 }
 
 hr.shaded {
-    height: 12px;
+    height: 6px;
     border: 0;
     margin-top: 70px;
     background: white;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .fa-6x{font-size:900%;}
