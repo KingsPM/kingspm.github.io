@@ -1,3 +1,10 @@
+---
+title: Introduction
+sidebar: vasa_sidebar
+permalink: installation.html
+folder: vasa
+---
+
 ## Local Installation ##
 
 The process describes creating a new Python virtual environment and installing a new copy of Django. The files in 
