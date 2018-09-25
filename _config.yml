@@ -12,7 +12,7 @@ site_title: King's Precision Medicine
 company_name: King's College Hospital NHS Foundation Trust
 # this appears in the footer
 
-github_editme_path: kingspm/kingspm.github.io/blob/gh-pages/
+github_editme_path:
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname:
