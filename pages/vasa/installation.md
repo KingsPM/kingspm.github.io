@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Installation Instructions
 sidebar: vasa_sidebar
 permalink: installation.html
 folder: vasa
