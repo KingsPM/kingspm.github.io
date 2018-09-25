@@ -1,6 +1,6 @@
 ---
 title: Introduction
-sidebar: sqvd_sidebar
+sidebar: vasa_sidebar
 permalink: vasa_index.html
 folder: vasa
 ---
