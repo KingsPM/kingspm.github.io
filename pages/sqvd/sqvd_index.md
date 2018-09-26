@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: SQVD
 sidebar: sqvd_sidebar
 permalink: sqvd_index.html
 folder: sqvd
