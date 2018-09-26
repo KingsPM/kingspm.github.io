@@ -27,6 +27,6 @@ topnav_dropdowns:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
         - title: SQVD
-          url: sqvd/sqvd_index.html
+          url: sqvd_index.html
         - title: VASA
-          url: vasa/vasa_index.html
+          url: vasa_index.html
