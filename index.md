@@ -1,10 +1,9 @@
 ---
-title: "King's College Hospital - Precision Medicine Bioinformatics"
+title: "Precision Medicine Bioinformatics"
 keywords: homepage
 tags: [index]
 sidebar: home_sidebar
 permalink: index.html
-summary: King's College Hospital Precision Medicine Landing page. Short overview of the bioinformatics services.
 ---
 
 {% include note.html content="This page is in development" %}
