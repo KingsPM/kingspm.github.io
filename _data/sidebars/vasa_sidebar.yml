@@ -15,5 +15,5 @@ entries:
       output: web, pdf
 
     - title: Installation notes
-      url: /installation.html
+      url: /vasa_installation.html
       output: web, pdf

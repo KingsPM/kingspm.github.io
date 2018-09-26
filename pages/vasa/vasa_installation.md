@@ -1,7 +1,7 @@
 ---
 title: Installation Instructions
 sidebar: vasa_sidebar
-permalink: installation.html
+permalink: vasa_installation.html
 folder: vasa
 ---
 
