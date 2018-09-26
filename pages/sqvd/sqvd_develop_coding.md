@@ -16,10 +16,10 @@ repository on GitHub is https://github.com/KingsPM/sqvd.git.
 We use the GitFlow version workfow with the following branches (starred branches must be tracked by the origin
 repository):
 
-1. **master&ast;** - release branch
+1. **master\*** - release branch
 2. hotfix/version - bugfix branch, incurs patch version increment
 3. release/version - staging branch, incurs minor version increment
-4. **develop&ast;** - main development branch
+4. **develop\*** - main development branch
 5. feature/name - feature branches
 
 Commits to master and development branch shall always be functional (pass compilation).
